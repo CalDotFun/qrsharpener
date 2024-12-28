@@ -3,7 +3,7 @@ import * as fs from 'fs';
 import { QRSharpener } from './QRSharpener';
 
 // the dimension of your QR code
-const dimension = 29;
+const dimension = 40;
 
 // the threshold to consider a pixel black or white
 const colorThreshold = 50;
